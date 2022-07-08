@@ -56,15 +56,15 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\UISafeAreaHandler.cs" />
     <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+    <Compile Include="Assets\Scripts\MobileJoystick.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\TileEndBehaviour.cs" />
     <Compile Include="Assets\Scripts\ObstacleBehaviour.cs" />
     <Compile Include="Assets\Scripts\CameraBehaviour.cs" />
-    <Compile Include="Assets\Scripts\MainMenuBehaviour.cs" />
     <Compile Include="Assets\Scripts\PauseScreenBehaviour.cs" />
-    <Compile Include="Assets\Scripts\MobileJoystick.cs" />
-    <Compile Include="Assets\Scripts\UISafeAreaHandler.cs" />
+    <Compile Include="Assets\Scripts\MainMenuBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
