@@ -70,16 +70,16 @@ For over a decade, John has gained extensive hands-on expertise in game developm
 John is currently an instructor at George Mason University Korea. Prior to his present ventures, he was an award-winning videographer.
 
 ## Other books by the author
-[Unity 2017 Mobile Game Development](https://www.packtpub.com/product/unity-2017-mobile-game-development/9781787288713?utm_source=github&utm_medium=repository&utm_campaign=9781787288713)
+* [Unity 2017 Mobile Game Development](https://www.packtpub.com/product/unity-2017-mobile-game-development/9781787288713?utm_source=github&utm_medium=repository&utm_campaign=9781787288713)
 
-[Unity 2020 Mobile Game Development - Second Edition](https://www.packtpub.com/product/unity-2020-mobile-game-development-second-edition/9781838987336?utm_source=github&utm_medium=repository&utm_campaign=9781838987336)
+* [Unity 2020 Mobile Game Development - Second Edition](https://www.packtpub.com/product/unity-2020-mobile-game-development-second-edition/9781838987336?utm_source=github&utm_medium=repository&utm_campaign=9781838987336)
 
-[Unreal Engine Game Development Cookbook](https://www.packtpub.com/product/unreal-engine-game-development-cookbook/9781784398163?utm_source=github&utm_medium=repository&utm_campaign=9781784398163)
+* [Unreal Engine Game Development Cookbook](https://www.packtpub.com/product/unreal-engine-game-development-cookbook/9781784398163?utm_source=github&utm_medium=repository&utm_campaign=9781784398163)
 
-[Unity 2021 Shaders and Effects Cookbook - Fourth Edition](https://www.packtpub.com/product/unity-2021-shaders-and-effects-cookbook-fourth-edition/9781839218620?utm_source=github&utm_medium=repository&utm_campaign=9781839218620)
+* [Unity 2021 Shaders and Effects Cookbook - Fourth Edition](https://www.packtpub.com/product/unity-2021-shaders-and-effects-cookbook-fourth-edition/9781839218620?utm_source=github&utm_medium=repository&utm_campaign=9781839218620)
 
-[Unity 2018 Shaders and Effects Cookbook - Third Edition](https://www.packtpub.com/product/unity-2018-shaders-and-effects-cookbook-third-edition/9781788396233?utm_source=github&utm_medium=repository&utm_campaign=9781788396233)
+* [Unity 2018 Shaders and Effects Cookbook - Third Edition](https://www.packtpub.com/product/unity-2018-shaders-and-effects-cookbook-third-edition/9781788396233?utm_source=github&utm_medium=repository&utm_campaign=9781788396233)
 
-[Unreal Engine 4.x Scripting with C++ Cookbook] (https://www.packtpub.com/product/unreal-engine-4x-scripting-with-c-cookbook-second-edition/9781789809503)
+* [Unreal Engine 4.x Scripting with C++ Cookbook](https://www.packtpub.com/product/unreal-engine-4x-scripting-with-c-cookbook-second-edition/9781789809503)
 
-[Building an FPS Game with Unity] (https://www.packtpub.com/product/building-an-fps-game-with-unity/9781782174806)
+* [Building an FPS Game with Unity](https://www.packtpub.com/product/building-an-fps-game-with-unity/9781782174806)
