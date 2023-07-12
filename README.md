@@ -7,8 +7,9 @@ This is the code repository for [Unity 2022 Mobile Game Development](https://www
 **Build and publish engaging games for Android and iOS**
 
 ## What is this book about?
+Unity is a well-established player in the mobile game development sphere, and its new release, Unity 2022, is packed with new, exciting features. In Unity 2022 Mobile Game Development, the third edition in this popular series, you'll get to grips with the Unity game engine by building a mobile game and publishing it on the most popular mobile app stores as well as exploring the all-new features.
 
-* This book covers the following exciting features:
+This book covers the following exciting features:
 * Design responsive UIs for your mobile games
 * Detect collisions, receive user input, and create player movements
 * Create engaging gameplay elements using mobile device input
