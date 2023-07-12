@@ -1,8 +1,8 @@
-# Unity 2022 Mobile Game Development
+# Unity 2022 Mobile Game Development - Third Edition
 
 <a href="https://www.packtpub.com/product/unity-2022-mobile-game-development-third-edition/9781804613726?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://content.packt.com/B18868/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
-This is the code repository for [Unity 2022 Mobile Game Development](https://www.packtpub.com/product/unity-2022-mobile-game-development-third-edition/9781804613726?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Unity 2022 Mobile Game Development - Third Edition](https://www.packtpub.com/product/unity-2022-mobile-game-development-third-edition/9781804613726?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Build and publish engaging games for Android and iOS**
 
